@@ -1,2 +1,3 @@
 # Project-Management
-test
+オフライン環境でプロジェクト管理が出来るツールです。
+
