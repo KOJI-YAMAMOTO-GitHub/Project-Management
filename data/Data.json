@@ -1,0 +1,12 @@
+var title = [
+    { title1: 'タスク管理', title2: 'サンプル project'}
+]
+var header = [
+{ headerNo: '#', headerTask: 'タスク', headerAssign: '担当者', headerStatus: 'ステータス', headerSchedulStartDate: '開始予定日時', headerSchedulEndDate: '終了予定日時', headerDays: '作業予定日数', headerStartDate: '開始日時', headerEndDate: '終了日時', headerNote: 'メモ'}
+]
+var data = [
+    { task: 'テスト', assign: '山本', status: '30%', schedulstartdate: '2018/10/10 12:10:00', schedulenddate: '2018/10/11 15:10:00', startdate: '2018/10/11', enddate: '2018/11/11', note: '' },
+    { task: '確認', assign: 'yamamoto', status: '20%', schedulstartdate: '2018/10/10 12:10:00', schedulenddate: '2018/10/11 12:10:00', startdate: '2018/09/18', enddate: '', note: '2018/09/18 Yamamoto\n前倒しで作業開始' },
+    { task: 'マージ', assign: 'koji', status: '100%', schedulstartdate: '2018/10/10 12:10:00', schedulenddate: '2018/10/10 12:10:00', startdate: '2018/11/12', enddate: '2017/1/1', note: '' },
+    { task: 'リリース', assign: 'KY', status: '0%', schedulstartdate: '2018/10/10 12:10:00', schedulenddate: '2018/10/10 12:10:00', startdate: '', enddate: '', note: '' }
+]
