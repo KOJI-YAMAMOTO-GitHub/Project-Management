@@ -22,3 +22,5 @@
 「index-marge.html」については、スタイルシートや、javascript等を1ファイルに纏めたものです。
 上長に進捗報告を行う際に利用することを想定したものの為、普段は利用する必要はない。
 
+# GitHub Pages
+https://koji-yamamoto-github.github.io/Project-Management/
